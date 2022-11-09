@@ -148,10 +148,12 @@ class ProcessNumber
         }
     }
 
-    public function bnNum($number)
+    public function bnNum($number,$locale='en')
     {
         $this->isValid($number);
-
+        if($locale=='en'){
+            return $number;
+        }
         return strtr($number, $this->numbers);
     }
 

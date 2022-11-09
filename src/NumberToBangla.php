@@ -17,9 +17,9 @@ class NumberToBangla
         $this->date    = new ProcessDate();
     }
 
-    public function bnNum($number)
+    public function bnNum($number,$locale="en")
     {
-        return $this->process->bnNum($number);
+        return $this->process->bnNum($number,$locale);
     }
 
     public  function bnWord($number)
