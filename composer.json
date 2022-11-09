@@ -1,14 +1,14 @@
 {
-    "name": "Noman73/number-to-bangla",
+    "name": "rakibhstu/number-to-bangla",
     "description": "Laravel package to convert English numbers to Bangla number or Bangla text, Bangla month name and Bangla Money Format",
     "keywords": ["laravel","Laravel-number-bangla","number-bangla","number-month"],
-    "homepage": "https://github.com/Noman73/number-to-bangla",
+    "homepage": "https://github.com/rakibdevs/number-to-bangla",
     "license": "MIT",
     "authors": [
         {
-            "name": "Abdulla-al-Noman",
-            "email": "noman.eng73@gmail.com",
-            "homepage": "https://github.com/Noman73/number-to-bangla"
+            "name": "Md. Rakibul Islam",
+            "email": "rakib1708@gmail.com",
+            "homepage": "https://rakibul.dev"
         }
     ],
     "require": {
